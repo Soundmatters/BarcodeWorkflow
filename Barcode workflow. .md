@@ -15,9 +15,8 @@ The barcodes are afixed:
   
 2)  Select the audio object's record and click on the "Form" view.  
 
-<p align="center"><img src="search.jpg" /></p>.
-  
 *Example, Filemaker search and view toolbar*
+<p align="center"><img src="search.jpg" /></p>.
 
 3) Determine if the audio object has already been assigned a barcode number.   If the object has been pre-assigned a barcode, continue the workflow with that barcode; if no barcode has been pre-assigned, assign a unique barcode to the audio object.
   
