@@ -27,10 +27,10 @@ The barcodes are afixed:
 
 4) Affix one copy of the barcode to the audio object's container.
   
-*Example 1, container barcode*. 
+*Example, container barcode*. 
 <p align="center"><img src="barcode_container.jpg" /></p>.  
 
 5) Afiix a second copy of the barcode to media housing (reel, cassette shell, etc.)  
   
-*Example 2, media housing barcode*. 
+*Example, media housing barcode*. 
 <p align="center"><img src="barcode_media.jpg" /></p>.
