@@ -11,7 +11,7 @@ The barcodes are afixed:
 * in a location that does not interfere with the functionality of the medium. 
 
 ## Workflow
-1) In the Filemaker database, do a Title search for the audio object in question. 
+1) In the Filemaker database (fmp://filemakerserver12local.local/CUNY_TV_archive.fmp12), do a Title search for the audio object in question. 
   
 2)  Select the audio object's record and click on the "Form" view.  
 
