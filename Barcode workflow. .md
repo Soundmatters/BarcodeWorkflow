@@ -1,5 +1,7 @@
 # Barcode workflow. 
 
+[toc]. 
+
 ## Overview 
 
 Every audio object is assigned a barcode as its identifier.  One copy of the barcode is afixed onto the medium and a second copy is afixed to its container.
